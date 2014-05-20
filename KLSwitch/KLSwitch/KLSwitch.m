@@ -246,7 +246,7 @@ typedef enum {
     [_thumb.layer setCornerRadius: roundedCornerRadius];
     [_thumb.layer setShadowColor: [[UIColor grayColor] CGColor]];
     [_thumb.layer setShadowOffset: CGSizeMake(0, 3)];
-    [_thumb.layer setShadowOpacity: 0.40f];
+    [_thumb.layer setShadowOpacity: 0.30f];
     [_thumb.layer setShadowRadius: 0.8];
 }
 
